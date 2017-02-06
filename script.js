@@ -15,5 +15,4 @@ $(document).ready(function(){
     // This is called when an error occurs
     console.log('Something went wrong: ' + error);
   });
-
 });
